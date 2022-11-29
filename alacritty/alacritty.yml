@@ -6,4 +6,7 @@ import:
   - /home/evrim/config/alacritty/dracula.yml
 
 font: 
-  size: 6 
+  normal:
+    family: iosevka  
+  size: 7 
+
